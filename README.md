@@ -16,5 +16,5 @@ for a given token, a set of desired visuals are learned through embeddings. Text
 Once we are able to generate customised images for Geisel, our next step is generate its surroundings
 guided by user given text prompts. We have tried to outpaint and extend the surroundings of Geisel Library using the embeddings trained previously.
 
-Also, we have collected a few images of 'Geseil Library' and trained the model on this custom dataset. This can be found in the `data` folder.
+Also, we have collected a few images of 'Geisel Library' and trained the model on this custom dataset. This can be found in the `data` folder.
 
